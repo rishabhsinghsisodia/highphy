@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=048a4c05684d43ce-2277eebe8cc5007d:T=1609837611:RT=1609837611:S=ALNI_Ma22vab3jjjRSSSylE8YxS95b8EWQ","_expires_":1643533611,"_path_":"/","_domain_":"britannica.com"}]});
