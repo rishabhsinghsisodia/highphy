@@ -1,0 +1,8 @@
+.Autocomplete{position:relative}.Autocomplete .searchButton{height:100%;position:absolute;right:0;top:0}.Autocomplete .searchButton[disabled]{opacity:0.7}
+
+.Flyout{background-color:#071c2e;color:#fff;left:0;position:fixed;right:0}.Flyout a:hover{text-decoration:underline}
+
+.SearchAndBrowseFlyout{height:calc(100vh - 47px);top:47px;z-index:99999;display:grid;grid-template-areas:'searchContainer' 'linkContainer';grid-template-rows:-webkit-min-content 1fr;grid-template-rows:min-content 1fr}@media (max-width: 671.98px){.SearchAndBrowseFlyout{height:calc(100vh - 47px);top:47px}}.SearchAndBrowseFlyout .searchContainer{grid-area:searchContainer;border-bottom:1px solid #0e365a}.SearchAndBrowseFlyout .linkContainer{grid-area:linkContainer;overflow-x:hidden;overflow-y:auto;padding-bottom:100px;-webkit-overflow-scrolling:touch}.SearchAndBrowseFlyout .linkContainer::-webkit-scrollbar{width:5px}.SearchAndBrowseFlyout .linkContainer::-webkit-scrollbar-thumb{background-color:rgba(255,255,255,0.3)}@media (max-width: 671.98px){.SearchAndBrowseFlyout .featureLinks{columns:2}}.SearchAndBrowseFlyout .featureContainer{border-bottom:1px solid #0e365a}
+
+
+/*# sourceMappingURL=6836.ebb85468.chunk.css.map*/

@@ -1,0 +1,14 @@
+.CategoriesTab{max-height:calc(100vh - 90px);overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}@media (max-width: 671.98px){.CategoriesTab{padding-bottom:200px}}
+
+.FeaturesTab{max-height:calc(100vh - 90px);overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}@media (max-width: 671.98px){.FeaturesTab{padding-bottom:200px}}
+
+.HamburgerMenu{top:47px;z-index:99999}@media (max-width: 671.98px){.HamburgerMenu .scrollable{overflow-y:scroll;white-space:nowrap;-webkit-overflow-scrolling:touch}.HamburgerMenu .scrollable::-webkit-scrollbar{display:none}}.subscriptionPromo{bottom:0;left:0;position:fixed;right:0;width:100%;z-index:99999}
+
+.NewTab{max-height:calc(100vh - 90px);overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}@media (max-width: 671.98px){.NewTab{padding-bottom:200px}}
+
+.Flyout{background-color:#071c2e;color:#fff;left:0;position:fixed;right:0}.Flyout a:hover{text-decoration:underline}
+
+.VideoTab{max-height:calc(100vh - 90px);overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}@media (max-width: 671.98px){.VideoTab{padding-bottom:200px}}
+
+
+/*# sourceMappingURL=7912.07c791e9.chunk.css.map*/
